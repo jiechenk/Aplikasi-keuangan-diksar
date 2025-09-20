@@ -1,2 +1,2 @@
-# Aplikasi-keuangan-diksar
-Aplikasi keuangan  Panitia diksar
+# Aplikasi-Bendahara-
+Managemen  keuangan  Panitia diksar Tsca

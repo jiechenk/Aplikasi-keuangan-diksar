@@ -1901,14 +1901,7 @@
       reader.readAsText(file);
     }
 
-    // ===== Touch and Mobile Enhancements =====
-    document.addEventListener('DOMContentLoaded', function() {
-      // Prevent double-tap zoom on buttons
-      document.addEventListener('touchend', function(e) {
-        if (e.target.tagName === 'BUTTON' || e.target.closest('button')) {
-          e.preventDefault();
-        }
-      });
+
 
       // Close sidebar when clicking outside
       document.addEventListener('touchstart', function(e) {
